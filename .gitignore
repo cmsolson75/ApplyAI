@@ -20,14 +20,5 @@ outputs/
 # OS junk
 .DS_Store
 Thumbs.db
-
-context/*
-
-# But keep the .gitkeep in context root
-!context/.gitkeep
-
-# Also ignore everything inside CoverLetters
-context/CoverLetters/*
-
-# But keep the .gitkeep inside CoverLetters
-!context/CoverLetters/.gitkeep
+context/*.md
+context/CoverLetters/*.md
