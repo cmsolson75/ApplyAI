@@ -19,7 +19,7 @@ Using ONLY the information provided in the full resume and the job posting below
 ## Rules
 - Include **only** skills, experience, education, and coursework that are explicitly mentioned in the provided full resume.
 - Reorder and emphasize sections so the resume is well matched to the job description.
-- From the coursework section in the resume, **select only 3–4 most relevant courses** instead of listing all of them.
+- From the coursework section in the resume, **select only 3–4 most relevant courses** instead of listing all of them, include description.
 - Do **not add, assume, or invent** any new skills, experience, tools, certifications, or responsibilities not present in the resume.
 - Do **not include instructions, explanations, or extra commentary** in your output.
 - Do **not wrap** the output in triple backticks or any other code block markers.
