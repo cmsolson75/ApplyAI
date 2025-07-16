@@ -4,6 +4,9 @@ from app.embedding_utils import build_faiss_index
 from app.services.resume_service import ResumeService
 from app.services.cover_service import CoverLetterService
 from app.workflow_runner import WorkflowRunner
+from dotenv import load_dotenv
+
+load_dotenv()
 
 st.set_page_config(page_title="ApplyAI", page_icon="📝")
 
