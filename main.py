@@ -5,6 +5,7 @@ from app.services.resume_service import ResumeService
 from app.services.cover_service import CoverLetterService
 from app.workflow_runner import WorkflowRunner
 
+st.set_page_config(page_title="ApplyAI", page_icon="📝")
 
 def main() -> None:
     cfg = load_config()
