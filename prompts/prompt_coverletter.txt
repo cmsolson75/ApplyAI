@@ -1,0 +1,38 @@
+You are an expert in writing professional cover letters.
+
+Using the following information, generate a complete and polished cover letter in **Markdown format**. 
+The letter must be formal, concise, and tailored to the given job.
+
+---
+
+## Inputs
+
+### Job Title
+{job_title}
+
+### Company
+{company}
+
+### Job Description
+{job_description}
+
+### Tailored Resume
+{tailored_resume}
+
+### Relevant Cover Letter Examples
+{retrieved_templates}
+
+---
+
+## Requirements for Output
+- Write a **formal cover letter** addressed to a generic hiring manager.
+- Highlight relevant skills and experience from the tailored resume.
+- Incorporate ideas and style from the provided cover letter examples.
+- Reference the company name and job title in the body.
+- End with a professional closing including my name and contact information.
+- Do **not wrap** the output in triple backticks or any other code block markers.
+
+---
+
+## Output
+Return **only** the final cover letter in Markdown format, with this structure:

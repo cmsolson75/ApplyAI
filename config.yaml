@@ -1,0 +1,11 @@
+# Path to the resume prompt template
+resume_prompt: prompts/prompt_resume.txt
+
+# Path to the cover letter prompt template
+coverletter_prompt: prompts/prompt_coverletter.txt
+
+# Path to the full resume context
+resume_context: context/Resume_Full.md
+
+# Folder containing example cover letters for similarity search
+cover_letter_context_folder: context/CoverLetters
